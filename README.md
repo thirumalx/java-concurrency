@@ -69,19 +69,19 @@ In concurrent/parallel task, shared resources(like variable/data structures) mig
 [Synchronize.java](src/main/java/in/thirumal/Synchronize/Synchronize.java ':include :type=code')
 
 
-### What is Thread?
-
+### Main Concepts
 
 * [Thread Life Cycle](ThreadLifecycle.md)
-1.  [Basic](src/main/java/in/thirumal/t1basic)
-2.  [Synchronize](src/main/java/in/thirumal/t2Synchronize)
-3.  [Lock](src/main/java/in/thirumal/t2lock/lock.md)
-4.  [Pool-Executor](src/main/java/in/thirumal/t2poool)
-5.  [ThreadLocal](src/main/java/in/thirumal/t1threadlocal)
-6.  [DeadLock](src/main/java/in/thirumal/t5deadlock)
-7.  [Seamaphore](src/main/java/in/thirumal/t6semaphore)
-8.  [Callable & Future](src/main/java/in/thirumal/t1callablefuture)
-9.  [Fork Join](src/main/java/in/thirumal/forkjoin)
-10. [Complete Future](src/main/java/in/thirumal/t1completablefuture/Basic.md)
-11. [Thread safe Data Structure](src/main/java/in/thirumal/t1threadsafedatastructure)
-12. [Reactive](src/main/java/in/thirumal/t1reactive)
+* [Basic](src/main/java/in/thirumal/t1basic)
+* [How to decide the number of thread](docs/How%20to%20decide%20number%20of%20threads.md) 
+* [Synchronize](src/main/java/in/thirumal/t2Synchronize)
+* [Lock](src/main/java/in/thirumal/t2lock/lock.md)
+* [Pool-Executor](src/main/java/in/thirumal/t2poool)
+* [ThreadLocal](src/main/java/in/thirumal/t1threadlocal)
+* [DeadLock](src/main/java/in/thirumal/t5deadlock)
+* [Seamaphore](src/main/java/in/thirumal/t6semaphore)
+* [Callable & Future](src/main/java/in/thirumal/t1callablefuture)
+* [Fork Join](src/main/java/in/thirumal/forkjoin)
+* [Complete Future](src/main/java/in/thirumal/t1completablefuture/Basic.md)
+* [Thread safe Data Structure](src/main/java/in/thirumal/t1threadsafedatastructure)
+* [Reactive](src/main/java/in/thirumal/t1reactive)

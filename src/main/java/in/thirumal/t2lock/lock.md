@@ -173,3 +173,5 @@ new Thread(() -> {
 This allows the consumer thread to wait until the producer thread signals it, ensuring proper coordination between threads.
 
 
+
+>>>>>>> 89faaae74c6de1aa4f9d5df3c54e669621e3e06d

@@ -34,3 +34,4 @@ public class ClassLevelLock {
 		System.out.println(Thread.currentThread().threadId() + " has released object-Level Lock");
 	}
 }
+>>>>>>> 89faaae74c6de1aa4f9d5df3c54e669621e3e06d
